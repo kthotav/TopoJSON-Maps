@@ -19,7 +19,7 @@ If your map is not available in the repository, then do not worry. Simply open a
 Alternatively, if you do not have a GitHub account, then you may email the owner `kthotav@gmail.com` or connect via `Twitter:kthotav`.
 
 ### Instructions for Contributing
-To contribute a TopoJSON formatted map, fork the repository and clone it locally. Make your changes in the `Contributions` directory. Create a sub directory with your GitHub username in the `Contributions` directory. You may then include any .json files you wish and include a README.md to explain what exactly are the files you are adding. Please do not tamper with other contributors directory or the files outside the contributions directory. I will only merge the change or update the repository if necessary.  
+To contribute a TopoJSON formatted map, fork the repository and clone it locally. Make your changes in the `Contributions` directory. Create a sub directory with your GitHub username in the `Contributions` directory. You may then include any .json files. Be sure to include a README.md to explain what exactly are the files you are adding. Please do not tamper with other contributors directory or the files outside the contributions directory. I will only merge the change or update the repository if necessary.  
 
 Your pull request will be denied if:  
 
