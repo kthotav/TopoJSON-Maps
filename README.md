@@ -34,3 +34,4 @@ If you find a bug in other directories, then please report it by opening an issu
 
 ### Contributors
 @kthotav - Owner
+[sneeruga - la county map](https://github.com/kthotav/TopoJSON-Maps/tree/master/Contributions/sneeruga) 
